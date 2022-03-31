@@ -96,6 +96,3 @@ FROM bitnami/contour:1.20.1-debian-10-r6
 
 # Tags: 1.20.1-debian-10-r5
 FROM bitnami/contour:1.20.1-debian-10-r5
-
-# Tags: 1.20.1-debian-10-r4
-FROM bitnami/contour:1.20.1-debian-10-r4
