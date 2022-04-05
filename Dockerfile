@@ -1,11 +1,23 @@
-# Tags: 1.20.1-debian-10-r34, 1.20.1, 1.20-debian-10, 1.20
-FROM bitnami/contour:1.20.1-debian-10-r34
+# Tags: 1.20.1-debian-10-r39, 1.20.1, 1.20-debian-10, 1.20
+FROM bitnami/contour:1.20.1-debian-10-r39
 FROM bitnami/contour:1.20.1
 FROM bitnami/contour:1.20-debian-10
 FROM bitnami/contour:1.20
 
 # Tags: _
 FROM bitnami/contour:_
+
+# Tags: 1.20.1-debian-10-r38
+FROM bitnami/contour:1.20.1-debian-10-r38
+
+# Tags: 1.20.1-debian-10-r37
+FROM bitnami/contour:1.20.1-debian-10-r37
+
+# Tags: 1.20.1-debian-10-r36
+FROM bitnami/contour:1.20.1-debian-10-r36
+
+# Tags: 1.20.1-debian-10-r34
+FROM bitnami/contour:1.20.1-debian-10-r34
 
 # Tags: 1.20.1-debian-10-r33
 FROM bitnami/contour:1.20.1-debian-10-r33
@@ -84,15 +96,3 @@ FROM bitnami/contour:1.20.1-debian-10-r9
 
 # Tags: latest
 FROM bitnami/contour:latest
-
-# Tags: 1.20.1-debian-10-r8
-FROM bitnami/contour:1.20.1-debian-10-r8
-
-# Tags: 1.20.1-debian-10-r7
-FROM bitnami/contour:1.20.1-debian-10-r7
-
-# Tags: 1.20.1-debian-10-r6
-FROM bitnami/contour:1.20.1-debian-10-r6
-
-# Tags: 1.20.1-debian-10-r5
-FROM bitnami/contour:1.20.1-debian-10-r5
