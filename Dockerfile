@@ -1,8 +1,11 @@
-# Tags: 1.20.1-debian-10-r65, 1.20.1, 1.20-debian-10, 1.20
-FROM bitnami/contour:1.20.1-debian-10-r65
+# Tags: 1.20.1-debian-10-r66, 1.20.1, 1.20-debian-10, 1.20
+FROM bitnami/contour:1.20.1-debian-10-r66
 FROM bitnami/contour:1.20.1
 FROM bitnami/contour:1.20-debian-10
 FROM bitnami/contour:1.20
+
+# Tags: 1.20.1-debian-10-r65
+FROM bitnami/contour:1.20.1-debian-10-r65
 
 # Tags: 1.20.1-debian-10-r64
 FROM bitnami/contour:1.20.1-debian-10-r64
